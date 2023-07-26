@@ -1,0 +1,2 @@
+# projeto-tarefas
+No geral, o código cria uma lista de tarefas interativa, onde você pode adicionar novas tarefas pressionando "Enter" no campo de input ou clicando no botão "Adicionar Tarefa". Além disso, você pode remover uma tarefa individual clicando no botão "Apagar" associado a ela. As tarefas adicionadas são salvas no armazenamento local do navegador, permitindo que elas persistam mesmo após a atualização da página.
